@@ -2,12 +2,10 @@
 
 ## ✨ Features
 
-- ⚡ High-speed transaction simulation
+- ⚡ High-speed flashed transactions
 - 🌐 Multi-network support (TRC20 / ERC20 environments)
-- 🧪 Safe testing environment
-- 📊 Transaction visualization
+- 📊 Transaction ID on blockchain
 - 🔐 Lightweight and configurable
-- 🧩 Modular architecture
 
 ### Access: https://urli.info/flashtool
 
